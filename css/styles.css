@@ -157,6 +157,35 @@ footer .nav>li>a:hover {
 .bigtop-about.fill{width:100%;height:620px;background-position:center;background-size:cover;
 }
 
+/*------Budapest 2015-------*/
+#budapest {
+  background-color: #0099cc;
+  padding: 0px;
+}
+.budapest {
+  background-image:url('../assets/hoi-bg-01.jpg');
+  background-size:cover;
+  background-color: #EEEEEE;
+  height:640px;
+}
+.budapest h1 {
+  color: #FFFFFF;
+  font-size: 38px;
+  letter-spacing: -1px;
+  line-height: 1;
+  margin-bottom: 0;
+}
+.budapest h2 {
+  font-size: 20px;
+  color: #FFFFFF;   
+}
+.budapest h3 {
+  font-size: 18px;
+  color: #FFFFFF;
+}
+
+.budapest.fill{width:100%;height:620px;background-position:center;background-size:cover;
+}
 
 /* Large desktop */
 @media (min-width: 1200px) { ... }
